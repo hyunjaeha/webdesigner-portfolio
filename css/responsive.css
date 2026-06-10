@@ -45,7 +45,7 @@
     width: 100%;
     padding: 32px 0;
 
-    background-color: var(--color-black);
+    background-color: #000;
 
     display: none;
     flex-direction: column;
@@ -180,7 +180,6 @@
     row-gap: 32px;
   }
 
-  /* Web */
   /* Web */
   .web-grid {
     grid-template-columns: 1fr;
