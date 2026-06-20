@@ -54,7 +54,7 @@ if (customCursor) {
 }
 
 // typing effect
-const words = ["WEB", "UX/UI", "CONTENTS"];
+const words = ["WEB", "UX/UI", "CONTENT"];
 
 const typingWord = document.getElementById("typing-word");
 
